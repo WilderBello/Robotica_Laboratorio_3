@@ -54,17 +54,24 @@ Encendiendo la misma señal digital de entrada se da la instrucción de dirigirs
 
 ![Trayectoria de retorno a HOME](https://github.com/WilderBello/Robotica_Laboratorio_3/blob/main/Imagenes/Retorno%20Posici%C3%B3n_Home.png)
 
-Una vez el manipulador se encuentra en la posición de HOME la señal digital de salida que se encuentra habilitada se desactiva.
+Una vez el manipulador se encuentra en la posición de HOME la señal digital de salida que se encuentra habilitada se desactiva. Para finaliza, se activa una segunda entrada digital para habilitar la secuencia de escritura predeterminada. El inicio de esta secuencia habilita una segunda salida digital.
 
-![]
-![]
-![]
+![](https://github.com/WilderBello/Robotica_Laboratorio_3/blob/main/Imagenes/Entrada%20y%20Salidad%20para%20Escritura.png)
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/Uu5_FPIJ8n0" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+Se realizó la simulación de la trayectoria que debía seguir el robot en Robot Studio.
 
-[![Alt text](https://img.youtube.com/vi/Uu5_FPIJ8n0/0.jpg)](https://www.youtube.com/watch?v=Uu5_FPIJ8n0)
+- [Video simulación de la trayectoria](https://www.youtube.com/watch?v=ILsWQRq9V4A&ab_channel=JavierEduardoGutierrezSerrqno)
+# [![Alt text](https://img.youtube.com/vi/ILsWQRq9V4A/0.jpg)](https://www.youtube.com/watch?v=ILsWQRq9V4A)
+
+- [Video simulación de la trayectoria y puetos E/S](https://www.youtube.com/watch?v=mM-5P2KKFEQ&ab_channel=JavierEduardoGutierrezSerrqno)
+# [![Alt text](https://img.youtube.com/vi/mM-5P2KKFEQ/0.jpg)](https://www.youtube.com/watch?v=mM-5P2KKFEQ)
+
+La implementación de la trayectoria dada se puede observar en los siguiente videos:
+
+- [Video de la trayectoria](https://www.youtube.com/watch?v=Uu5_FPIJ8n0&ab_channel=JavierEduardoGutierrezSerrqno)
+# [![Alt text](https://img.youtube.com/vi/Uu5_FPIJ8n0/0.jpg)](https://www.youtube.com/watch?v=Uu5_FPIJ8n0)
+
+- [Video de la trayectoria](https://www.youtube.com/watch?v=V6Aaatjgi6w&ab_channel=JavierEduardoGutierrezSerrqno)
+# [![Alt text](https://img.youtube.com/vi/V6Aaatjgi6w/0.jpg)](https://www.youtube.com/watch?v=V6Aaatjgi6w)
+
+
