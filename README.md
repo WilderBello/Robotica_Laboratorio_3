@@ -42,6 +42,20 @@ Por medio de la implementación de las trayectorias que sigue el manipulador ABB
 
 ## Rutina Planteada
 
+La primera señal digital de entrada debe iniciar la rutina de dirigir el manipulador a la pose de mantenimiento y encender una señal digital de salida.
+
+![Desplazamiento a pose de mantenimiento](Imagenes/Trayectoria_Posición_Herramienta.png)
+
+Durante el tiempo que se encuentra en la posición de mantenimiento, la señal digital va a seguir encendida como señal de seguridad.
+
+![](Imagenes/Posición_Herramienta.png)
+
+Encendiendo la misma señal digital de entrada se da la instrucción de dirigirse a la posición de HOME. 
+
+![Trayectoria de retorno a HOME](https://github.com/WilderBello/Robotica_Laboratorio_3/blob/main/Imagenes/Retorno%20Posici%C3%B3n_Home.png)
+
+Una vez el manipulador se encuentra en la posición de HOME la señal digital de salida que se encuentra habilitada se desactiva.
+
 ![]
 ![]
 ![]
